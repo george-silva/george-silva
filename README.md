@@ -25,7 +25,7 @@ Reading and `Magic: The Gathering` is something that I also enjoy.
 
 ### Languages & Interests
 
-* Protuguese 🇧🇷
+* Portuguese 🇧🇷
 * English 🇺🇸
 * Python
 * Clojure

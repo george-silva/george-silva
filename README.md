@@ -48,7 +48,6 @@ Reading and `Magic: The Gathering` is something that I also enjoy.
 
 * [Blog](https://dev.metageo.xyz/)
 * [Twitter](https://twitter.com/georgersilva)
-* [LinkedIn](https://www.linkedin.com/in/georgercsilva/)
 
 
 ---
@@ -101,4 +100,3 @@ são hobbies que gosto bastante.
 
 * [Blog](https://dev.metageo.xyz/)
 * [Twitter](https://twitter.com/georgersilva)
-* [LinkedIn](https://www.linkedin.com/in/georgercsilva/)
